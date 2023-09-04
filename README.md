@@ -11,9 +11,10 @@ Hello! I am an architect currently pursuing a Master of Science degree in Buildi
 First and foremost, I aim to learn how to effectively visualize data in a way that is comprehensible to any audience. I want to explore the psychological impact that color, shape, and style have on individuals from diverse backgrounds. Additionally, I am eager to acquire skills in creating my GitHub portfolio and learning any tool that is presented in this course, for example, Tableau. I am extremely enthusiastic about becoming more proficient in data visualization through this course. I believe that the skills I gain will contribute to the development and presentation of my future thesis, assist me in pursuing my dream job, and further my career prospects.
 
 # Portfolio
+This is where you can explore my work related to visualizing data for the course 94870 - Telling Stories with Data.
 
 ## Assignment:
 
 ## Assignment 3&4:
 
-## Final project
+## Final project:
