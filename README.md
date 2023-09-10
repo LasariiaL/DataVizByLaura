@@ -14,6 +14,8 @@ First and foremost, I aim to learn how to effectively visualize data in a way th
 This is where you can explore my work related to visualizing data for the course 94870 - Telling Stories with Data.
 
 ## Assignment: [Visualizing Government Debt](/GeneralGovernmentDebt.md) 
+Bar charts and grids of line charts serve different purposes in data visualization. Bar charts are great for comparing categories or showing how a single variable is distributed. On the other hand, grids of line charts are handy when you want to examine trends or relationships between multiple variables over time or across categories.
+For my third data visualization, I chose a Treemap to represent countries' debt-to-GDP ratios. A Treemap breaks a rectangle into smaller rectangles, with each representing a portion of the whole. This works well for comparing debt ratios across countries and regions. The Treemap is strategic because it offers an overview of the global debt-to-GDP situation and allows us to explore how individual countries contribute to the overall picture. It's a useful tool to uncover patterns and outliers within regions or specific countries, helping us understand the complex relationship between debt and economic performance worldwide.
 
 ## Assignment 3&4:
 
