@@ -13,7 +13,7 @@ First and foremost, I aim to learn how to effectively visualize data in a way th
 # Portfolio
 This is where you can explore my work related to visualizing data for the course 94870 - Telling Stories with Data.
 
-## Assignment: [Visualizing Government Debt](GeneralGovernmentDebt.md)
+## Assignment:
 
 ## Assignment 3&4:
 
