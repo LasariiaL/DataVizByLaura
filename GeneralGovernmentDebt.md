@@ -9,3 +9,6 @@
 The general government debt-to-GDP ratio, a crucial gauge of government financial stability, quantifies the gross government debt as a percentage of GDP, comprising various liability categories such as currency and deposits, debt securities, loans, insurance, pensions, guarantee schemes, and other accounts payable, with changes in government debt primarily influenced by past deficits.
 <div class="flourish-embed flourish-chart" data-src="visualisation/14974772"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+## Debt-to-GDP Ratio Treemap
+To access detailed information about General Government Debt, click on the dropdown panel located in the upper left corner and select the specific year of interest.
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/14975064"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
