@@ -12,3 +12,6 @@ The general government debt-to-GDP ratio, a crucial gauge of government financia
 ## Debt-to-GDP Ratio Treemap
 To access detailed information about General Government Debt, click on the dropdown panel located in the upper left corner and select the specific year of interest.
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/14975064"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Tableau
+https://public.tableau.com/app/profile/laura.lasariia/viz/Debt-to-GDPRatio/Debt-to-GDP?publish=yes
