@@ -1,4 +1,4 @@
 
 
-# Race- and gender-based under-representation of creative contributors: art, fashion, film, and music
+# Addressing Diversity Disparities in Creative Industries: Art, Fashion, Film, and Music
 ## Total
