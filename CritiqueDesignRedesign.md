@@ -3,6 +3,9 @@
 # Addressing Diversity Disparities in Creative Industries: Art, Fashion, Film, and Music
 ## Data visualization for revision and redesign
 ### Topaz, C.M., Higdon, J., Epps-Darling, A. et al. Race- and gender-based under-representation of creative contributors: art, fashion, film, and music. Humanit Soc Sci Commun 9, 221 (2022). https://doi.org/10.1057/s41599-022-01239-9.
+![Socially inferred intersecting gender-ethnicity within each creative domain](Figure3.jpg)
+> Photo by <a href="[[https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a](https://www.nature.com/articles/s41599-022-01239-9/figures/3)](https://www.nature.com/articles/s41599-022-01239-9/figures/3)>
+
 The selected data visualization is "Fig. 3: Socially inferred intersecting gender-ethnicity within each creative domain, where each light gray rectangle represents proportion within the domain," which presents a visual representation of the gender and ethnicity intersections within the four creative domains (art, fashion, film, and music).
 The choice of this particular data visualization is related to several reasons:
 - It provides a clear and concise overview of the gender and ethnicity distribution within each creative domain.
