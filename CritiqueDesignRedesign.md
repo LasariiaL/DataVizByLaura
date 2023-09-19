@@ -15,3 +15,6 @@ The choice of this particular data visualization is related to several reasons:
 2. The small text in smaller areas makes it difficult to read, and this can be a usability issue. It would be beneficial to improve the legibility of text in smaller sections.
 3. Not having numerical data directly on the chart could be a limitation. Viewers have to refer to Table 1 for specific data, which can be inconvenient and disrupt the flow of understanding.
 4. The title should be simplified for clarity and conciseness.
+5. While a Treemap is a good choice, exploring other types of charts might enhance its overall effectiveness.
+
+#### To make this graph more appealing to the art industry audience, consider adding more creativity and using vibrant colors.
