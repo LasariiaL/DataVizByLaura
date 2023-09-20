@@ -20,4 +20,7 @@ The choice of this particular data visualization is related to several reasons:
 #### To make this graph more appealing to the art industry audience, consider adding more creativity and using vibrant colors.
 
 ##  A visual exploration of creative contributors
+The following four charts represent a process of experimentation with various chart types. In my quest to make the data more comprehensible, I explored approximately 12 different chart options before narrowing them down to four that I believed were the most understandable. Subsequently, I conducted a survey involving three participants: a Ph.D. student, a 60-year-old adult, and a 26-year-old marketing student. 
+Among the chart types tested, the line chart emerged as the most confusing. The Ph.D. student noted that it had a dense cluster of lines at the bottom, making it difficult to discern the data points. Moving on, we explored bar charts and donut charts, which were deemed visually more appealing. However, they still lacked the necessary level of detail, prompting questions from the 60-year-old participant.
+The stacked bar chart, on the other hand, stood out as the clearest and most comprehensible data visualization option. It received positive feedback from all three participants. Notably, the marketing student recommended toning down the vibrancy of colors for improved readability. 
 
