@@ -33,6 +33,8 @@ The stacked bar chart, on the other hand, stood out as the clearest and most com
 In response to this feedback, I made several enhancements to the chosen stacked bar chart. These included the addition of legends, labels, explanatory text, color adjustments, and the inclusion of a title. These modifications aimed to further improve the chart's clarity and ensure that it could be easily understood by a broader audience.
 <div class="flourish-embed flourish-chart" data-src="visualisation/15079229"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+The redesigned data visualization presents a horizontal bar chart with ethnicity displayed on the y-axis and a 100-point scale on the x-axis. The chart is divided into four distinct sections, each represented by a different color: art (purple), fashion (turquoise), film (blue), and music (green). Within each section, proportions are labeled to indicate the distribution of individuals from different ethnic backgrounds.
+One unique feature of this visualization is the controller located in the left upper corner, allowing users to switch between genders by clicking on it. This interactive element adds a layer of flexibility to explore how the distribution of ethnicities varies across different genders within the domains of art, fashion, film, and music.
 
 
 
