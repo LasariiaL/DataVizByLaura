@@ -19,9 +19,9 @@ For my third data visualization, I chose a Treemap to represent countries' debt-
 
 ## Assignment 3&4: [Critique by Design](/CritiqueDesignRedesign.md)
 - **Step one**: found the data visualization from Topaz, C.M., Higdon, J., Epps-Darling, A. et al. Race- and gender-based under-representation of creative contributors: art, fashion, film, and music. Humanit Soc Sci Commun 9, 221 (2022)
-- **Step two**: critique the visualization
-- **Step three**: wireframe a solution
-- **Step four**: test the solution
-- **Step five**: build your solution
+- **Step two**: analysed pros and cons of the visualization
+- **Step three**: experimented with several solutions
+- **Step four**: conducted a servey
+- **Step five**: build my redesign of the visualization
 
 ## Final project:
