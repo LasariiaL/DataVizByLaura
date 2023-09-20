@@ -29,7 +29,9 @@ The stacked bar chart, on the other hand, stood out as the clearest and most com
 3. <img src="Donutchart.jpg" width="600"/>
 4. <img src="Stackedchart.jpg" width="600"/>
 
-
+#### Response to this feedback
+In response to this feedback, I made several enhancements to the chosen stacked bar chart. These included the addition of legends, labels, explanatory text, color adjustments, and the inclusion of a title. These modifications aimed to further improve the chart's clarity and ensure that it could be easily understood by a broader audience.
+<img src="xxxxxx.jpg" width="800"/>
 
 
 
