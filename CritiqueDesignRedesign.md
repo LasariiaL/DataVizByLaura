@@ -24,9 +24,9 @@ The following four charts represent a process of experimentation with various ch
 Among the chart types tested, the line chart emerged as the most confusing. The Ph.D. student noted that it had a dense cluster of lines at the bottom, making it difficult to discern the data points. Moving on, we explored bar charts and donut charts, which were deemed visually more appealing. However, they still lacked the necessary level of detail, prompting questions from the 60-year-old participant.
 The stacked bar chart, on the other hand, stood out as the clearest and most comprehensible data visualization option. It received positive feedback from all three participants. Notably, the marketing student recommended toning down the vibrancy of colors for improved readability. 
 1. <img src="Linechart.jpg" width="600"/>
-3. ![Bar chart](Barchart.jpg)
-4. ![Donut chart](Donutchart.jpg)
-5. ![Stacked chart](Stackedchart.jpg)
+2. <img src="Barchart.jpg" width="600"/>
+3. <img src="Donutchart.jpg" width="600"/>
+4. <img src="Stackedchart.jpg" width="600"/>
 
 
 
