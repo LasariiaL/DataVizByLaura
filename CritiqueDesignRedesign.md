@@ -31,7 +31,6 @@ The stacked bar chart, on the other hand, stood out as the clearest and most com
 
 ### Response to the feedback
 In response to this feedback, I made several enhancements to the chosen stacked bar chart. These included the addition of legends, labels, explanatory text, color adjustments, and the inclusion of a title. These modifications aimed to further improve the chart's clarity and ensure that it could be easily understood by a broader audience.
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/15079229"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
