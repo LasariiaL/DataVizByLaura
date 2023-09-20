@@ -18,5 +18,10 @@ Bar charts and grids of line charts serve different purposes in data visualizati
 For my third data visualization, I chose a Treemap to represent countries' debt-to-GDP ratios. A Treemap breaks a rectangle into smaller rectangles, with each representing a portion of the whole. This works well for comparing debt ratios across countries and regions. The Treemap is strategic because it offers an overview of the global debt-to-GDP situation and allows us to explore how individual countries contribute to the overall picture. It's a useful tool to uncover patterns and outliers within regions or specific countries, helping us understand the complex relationship between debt and economic performance worldwide.
 
 ## Assignment 3&4: [Critique by Design](/CritiqueDesignRedesign.md)
+**Step one**: found the data visualization from the 
+**Step two**: critique the visualization
+**Step three**: wireframe a solution
+**Step four**: test the solution
+**Step five**: build your solution
 
 ## Final project:
