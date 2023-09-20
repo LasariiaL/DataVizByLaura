@@ -18,3 +18,6 @@ The choice of this particular data visualization is related to several reasons:
 5. While a Treemap is a good choice, exploring other types of charts might enhance its overall effectiveness.
 
 #### To make this graph more appealing to the art industry audience, consider adding more creativity and using vibrant colors.
+
+##  A visual exploration of creative contributors
+
