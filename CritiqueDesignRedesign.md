@@ -1,4 +1,4 @@
-
+| [home page](https://github.com/LasariiaL/DataVizByLaura) |
 
 # Addressing Disparities in Creative Industries: Race and Gender Representation
 ## Data visualization for revision and redesign
