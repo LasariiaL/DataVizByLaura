@@ -4,7 +4,7 @@
 ## Data visualization for revision and redesign
 #### Topaz, C.M., Higdon, J., Epps-Darling, A. et al. Race- and gender-based under-representation of creative contributors: art, fashion, film, and music. Humanit Soc Sci Commun 9, 221 (2022). https://doi.org/10.1057/s41599-022-01239-9.
 
-<img src="Figure3.jpg" width="600"/> 
+<img src="Figure3.jpg" width="700"/> 
 > Photo by <a href="https://www.nature.com/articles/s41599-022-01239-9/figures/3"> Humanities and Social Sciences Communications
 
 #### The selected data visualization is "*Fig. 3: Socially inferred intersecting gender-ethnicity within each creative domain, where each light gray rectangle represents proportion within the domain,*" which presents a visual representation of the gender and ethnicity intersections within the four creative domains (art, fashion, film, and music).
