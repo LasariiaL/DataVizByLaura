@@ -26,7 +26,7 @@ For my third data visualization, I chose a Treemap to represent countries' debt-
 
 ## Final Project
 
-### Part I: 
+### Part I: [Project proposal](/FinalProject_P1.md)
 
 ### Part II:
 
