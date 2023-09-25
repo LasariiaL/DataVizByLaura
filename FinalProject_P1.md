@@ -3,7 +3,7 @@
 # Enhancing the flood resilience of existing buildings through green infrastructure
 The aim of this project is to explore and demonstrate how the integration of green infrastructure, specifically green roofs and green facades, can enhance the flood resilience of existing buildings in urban environments. With climate change leading to an increase in extreme weather events, including flooding, it's crucial to find sustainable solutions that not only mitigate flood risks but also contribute to urban sustainability and aesthetics. This project seeks to showcase the benefits of greenery in building design as a means to reduce flood vulnerability, improve urban ecosystems, and create more resilient cities.
 
-## Project Structure
+## Project Structure:
 ### Introduction
 Background information: flood-prone cities in the U.S. with the use of Choropleth maps, the type of building most exposed to flooding, discuss the increasing frequency of urban flooding events, and the goal of enhancing flood resilience through green infrastructure.
 
