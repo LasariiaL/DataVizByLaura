@@ -19,6 +19,7 @@ Why green roofs and vertical greenery (facades)? Discuss how green roofs and fac
 All the best aspects of using green infrastructure for flood prevention and resilience. Recommendations on retrofitting existing buildings.
 
 ### Conclusion
+Summarize the main findings. Encourage audience to consider green roofs and green facades as a viable option for flood resiliency.
 
 ## 2 Data source
 I am going to recreate the data based on various sources (https://data.world/ , https://www.kaggle.com/ , GIS , FEMA), can be extended if needed. The list of data sources will also include magazines and websites that were used for the textual part of the project, can also include images.
