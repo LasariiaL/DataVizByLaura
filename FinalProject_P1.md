@@ -22,3 +22,6 @@ All the best aspects of using green infrastructure for flood prevention and resi
 
 ## Data source
 I am going to recreate the data based on various sources (https://data.world/ , https://www.kaggle.com/ , GIS , FEMA), can be extended if needed. The list of data sources will also include magazines and websites that were used for the textual part of the project, can also include images.
+
+## Method and medium
+ I am considering using Esri's Story Maps due to my prior experience with the platform. However, I also plan to explore Shorthand to acquire new skills and will ultimately choose the platform that best suits the project's needs. Additionally, if necessary, I can incorporate PowerPoint slides as an additional component. 
