@@ -7,7 +7,7 @@ The aim of this project is to explore and demonstrate how the integration of gre
 ### Introduction
 Background information: flood-prone cities in the U.S. with the use of Choropleth maps, the type of building most exposed to flooding, discuss the increasing frequency of urban flooding events, and the goal of enhancing flood resilience through green infrastructure.
 
-### Understanding Green Infrastructure
+### Green Infrastructure for Flood Mitigation
 Why green roofs and vertical greenery (facades)? Discuss how green roofs and facades can mitigate flood risks. Existing examples. Design considerations and technical aspects.
 
 ### Benefits of Green Infrastructure
