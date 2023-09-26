@@ -6,6 +6,7 @@ The aim of this project is to explore and demonstrate how the integration of gre
 ## 1 Project Structure:
 ### Introduction
 Background information: flood-prone cities in the U.S. with the use of Choropleth maps, the type of building most exposed to flooding, discuss the increasing frequency of urban flooding events, and the goal of enhancing flood resilience through green infrastructure.
+<img src="[Figure3.jpg](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/2bd5c9b1-4650-4640-9de0-32e4fd583954)" width="700"/>
 ![image](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/2bd5c9b1-4650-4640-9de0-32e4fd583954)
 ![image](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/03da5e83-7327-4a4f-9072-50b8f7da7abc)
 ![image](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/ae9fc68e-fbe4-4b6c-8974-74291421b4c5)
