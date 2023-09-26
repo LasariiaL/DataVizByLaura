@@ -12,6 +12,7 @@ Background information: flood-prone cities in the U.S. with the use of Choroplet
 
 ### Green Infrastructure for Flood Mitigation
 Why green roofs and vertical greenery (facades)? Discuss how green roofs and facades can mitigate flood risks. Existing examples. Design considerations and technical aspects.
+![image](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/1c44fb10-b3cc-4fa3-90a5-e58241b65e9b)
 
 ### Benefits of Green Infrastructure
 1. Flood mitigation: resilience
