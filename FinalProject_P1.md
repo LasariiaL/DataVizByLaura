@@ -19,6 +19,7 @@ Why green roofs and vertical greenery (facades)? Discuss how green roofs and fac
 1. Flood mitigation: resilience
 2. Environmental: eco-friendly
 3. Financial: energy savings or cost of implementation
+![image](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/dbbd4466-f8be-4b54-8f4e-e04c5d6f227a)
 
 ### Future Potential
 All the best aspects of using green infrastructure for flood prevention and resilience. Recommendations on retrofitting existing buildings.
