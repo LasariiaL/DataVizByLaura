@@ -43,3 +43,5 @@ Text here!
 
 # Moodboards / personas
 Text here!
+![Moodboard](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/adcaaa35-ef69-4fef-8c9b-e79b59b605aa)
+
