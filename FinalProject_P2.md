@@ -63,6 +63,7 @@ The target audience for this project includes flood-prone communities and thier 
 - Incorporating personal stories: to enhance relatability, personal narratives of individuals affected by floods will be integrated into the data visualizations.
 - Quantitative details in visualizations: the charts, maps, and graphs will be supplemented with additional quantitative information, providing a more detailed analysis of the data presented.
 - Incorporating visual comparisons: visual comparison tools, like sliders or interactive infographics, will be used to showcase the before-and-after transformations of areas implementing green roofs.
+- Call for action (suggested by the professor of Telling Stories with Data)
 
 # Moodboards / personas
 Text here!
