@@ -41,7 +41,7 @@ All the best aspects of using green roofs for urban flood prevention and resilie
 
 # User research 
 ## Target audience
-The target audience for this project includes flood-prone community and thier leaders, architects, urban planners, and policymakers. To identify representative individuals, I utilized professional networks, academic contacts, and online communities. I reached out to professionals with diverse backgrounds and experiences to ensure a comprehensive perspective on the topic.
+The target audience for this project includes flood-prone communities and thier leaders, architects, urban planners, and policymakers. To identify representative individuals, I utilized professional networks, academic contacts, and online communities. I reached out to professionals with diverse backgrounds and experiences to ensure a comprehensive perspective on the topic.
 
 ## Interview script
 Text here!
