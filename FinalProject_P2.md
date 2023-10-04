@@ -48,9 +48,9 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|Understand the clarity and effectiveness of the content in conveying the message about urban flood resilience and green roofs.      |                  |
-|      |                  |
-|      |                  |
+|Understand the clarity and effectiveness of the content in conveying the message about urban flood resilience and green roofs.|  How clearly did you understand the concepts of urban flood resilience and the role of green roofs after reviewing the content? Were there any parts of the content that you found confusing or difficult to follow? Are there specific aspects of urban flood resilience or green roofs that you feel should be explained in more detail for better understanding?|
+|Evaluate the visual elements' appeal and engagement level for the target audience.| Which visual elements (charts, graphs, images) caught your attention and engaged you the most?  On a scale of 1 to 10, how visually appealing did you find the overall design of the wireframes and storyboards?|
+|Identify specific areas for improvement in data visualizations, layout, and content.|  Can you suggest specific improvements to the data visualizations to make them more informative and easy to comprehend?  Were there challenges in navigating between sections or finding specific information?|
 
 Text here!
 
