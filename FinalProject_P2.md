@@ -13,6 +13,9 @@ Image source: https://www.freepik.com/search?format=search&page=6&query=city+flo
 Changes in weather patterns, including intense rainfall and prolonged periods of drought followed by heavy rain, can exacerbate urban flooding. Unplanned and rapid urban growth can overwhelm existing drainage and sewage systems, causing flooding in newly developed areas. Urban flooding occurs predominantly in city centers and neighborhoods lacking sufficient green infrastructure, proper drainage systems, and permeable surfaces capable of absorbing water.
 ![Green Mind Map](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/4508d0d2-6e86-4261-824f-3e67ff9d558d)
 
+### Green Roofs: A Solution for All Climates
+Intensive and extensive green roofs are effective solutions for mitigating urban flooding due to their ability to absorb and manage rainwater in urban environments. Both extensive and intensive green roofs act as sponges, soaking up rainwater. This reduces the volume of water that would otherwise flow directly into stormwater drains and overload urban drainage systems. Green roofs release absorbed rainwater gradually through evapotranspiration, where plants release water vapor. Moreover, intensive green roofs, with their deeper soil layers, can support a diverse range of plant species. This biodiversity enhances the ecosystem, promoting natural balance and resilience against extreme weather events, including heavy rainfall.
+
 # User research 
 
 ## Target audience
