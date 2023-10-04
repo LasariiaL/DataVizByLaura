@@ -27,10 +27,11 @@ Certainly, cities like New York and Chicago, known for their rapid urban growth 
 - Biodiversity and Ecological Balance
 - Community Well-being
 - Sustainable Development
-According to the Risk Factor website data, there are 83,841 properties in Chicago that have greater than a 26% chance of being severely affected by flooding over the next 30 years. This represents 42% of all properties in Chicago.
+
 ![Screenshot 2023-10-04 000811](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/57df4249-8ed5-40b0-bf5d-d110cb3e7737)
-There are 156,304 properties in New York that have greater than a 26% chance of being severely affected by flooding over the next 30 years. This represents 30% of all properties in New York.
+According to the Risk Factor website data, there are 83,841 properties in Chicago that have greater than a 26% chance of being severely affected by flooding over the next 30 years. This represents 42% of all properties in Chicago.
 ![Screenshot 2023-10-04 000855](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/fe6d3b2e-d72d-4693-8ee7-4534c5785df7)
+There are 156,304 properties in New York that have greater than a 26% chance of being severely affected by flooding over the next 30 years. This represents 30% of all properties in New York.
 
 # User research 
 
