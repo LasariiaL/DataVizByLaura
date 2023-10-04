@@ -40,16 +40,15 @@ There are 156,304 properties in New York that have greater than a 26% chance of 
 All the best aspects of using green roofs for urban flood prevention and resilience. Recommendations on retrofitting existing buildings.
 
 # User research 
-
 ## Target audience
-Text here!
+The target audience for this project includes flood-prone community and thier leaders, architects, urban planners, and policymakers. To identify representative individuals, I utilized professional networks, academic contacts, and online communities. I reached out to professionals with diverse backgrounds and experiences to ensure a comprehensive perspective on the topic.
 
 ## Interview script
 Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+|Understand the clarity and effectiveness of the content in conveying the message about urban flood resilience and green roofs.      |                  |
 |      |                  |
 |      |                  |
 
