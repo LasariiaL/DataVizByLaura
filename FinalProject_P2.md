@@ -19,6 +19,17 @@ Intensive and extensive green roofs are effective solutions for mitigating urban
 ![stip-algemeen_intensive_en](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/db88c017-cb4b-44bd-994f-afee712a59f1)
 Image source: https://www.nophadrain.com/
 
+### Green Roof Solutions for Growing Cities
+Certainly, cities like New York and Chicago, known for their rapid urban growth and development, face significant challenges related to urban flooding. The expansion of concrete surfaces, coupled with intense rainfall and aging infrastructure, contributes to the increasing incidents of flooding. Implementing solutions such as extensive and intensive green roofs in these concrete jungles could offer several benefits:
+- Stormwater Management
+- Alleviating Drainage Systems
+- Urban Cooling
+- Biodiversity and Ecological Balance
+- Community Well-being
+- Sustainable Development
+![Screenshot 2023-10-04 000811](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/57df4249-8ed5-40b0-bf5d-d110cb3e7737)
+![Screenshot 2023-10-04 000855](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/fe6d3b2e-d72d-4693-8ee7-4534c5785df7)
+
 # User research 
 
 ## Target audience
