@@ -10,7 +10,7 @@ The need for resilient and sustainable cities is greater than ever in the face o
 Image source: https://www.freepik.com/search?format=search&page=6&query=city+flood&selection=1
 
 ### Understanding the root causes helps in effective mitigation strategies
-Changes in weather patterns, including intense rainfall and prolonged periods of drought followed by heavy rain, can exacerbate urban flooding. Unplanned and rapid urban growth can overwhelm existing drainage and sewage systems, causing flooding in newly developed areas. Urban flooding occurs predominantly in city centers and neighborhoods lacking sufficient green infrastructure, proper drainage systems, and permeable surfaces capable of absorbing water.
+Changes in weather patterns, including *intense rainfall and prolonged periods of drought followed by heavy rain*, can exacerbate urban flooding. Unplanned and rapid urban growth can overwhelm existing drainage and sewage systems, causing flooding in newly developed areas. Urban flooding occurs predominantly in city centers and neighborhoods lacking sufficient green infrastructure, proper drainage systems, and permeable surfaces capable of absorbing water.
 ![Green Mind Map](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/4508d0d2-6e86-4261-824f-3e67ff9d558d)
 
 ### Green Roofs: A Solution for All Climates
