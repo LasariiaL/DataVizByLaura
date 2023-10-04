@@ -6,7 +6,7 @@
 ### Urban Flooding is a Growing Concern
 The need for resilient and sustainable cities is greater than ever in the face of rising climate change-related events and increased urbanization. Extreme weather events, especially urban flooding, is becoming more and more likely to affect cities, which pose significant threats to human populations, the environment and its biodiversity. Innovative, integrative strategies that go beyond conventional building techniques are needed to address these difficulties.
 ![5684291](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/157430f4-f960-4d06-8761-a0a106d67853)
-
+Image source: https://www.freepik.com/search?format=search&page=6&query=city+flood&selection=1
 # User research 
 
 ## Target audience
