@@ -44,7 +44,6 @@ All the best aspects of using green roofs for urban flood prevention and resilie
 The target audience for this project includes flood-prone communities and thier leaders, architects, urban planners, and policymakers. To identify representative individuals, I utilized professional networks, academic contacts, and online communities. I reached out to professionals with diverse backgrounds and experiences to ensure a comprehensive perspective on the topic.
 
 ## Interview script
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -52,10 +51,7 @@ Text here!
 |Evaluate the visual elements' appeal and engagement level for the target audience.| Which visual elements (charts, graphs, images) caught your attention and engaged you the most?  On a scale of 1 to 10, how visually appealing did you find the overall design of the wireframes and storyboards?|
 |Identify specific areas for improvement in data visualizations, layout, and content.|  Can you suggest specific improvements to the data visualizations to make them more informative and easy to comprehend?  Were there challenges in navigating between sections or finding specific information?|
 
-Text here!
-
 ## Interview findings
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
