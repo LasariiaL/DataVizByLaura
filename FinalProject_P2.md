@@ -15,6 +15,9 @@ Changes in weather patterns, including **intense rainfall and prolonged periods 
 
 ### Green Roofs: A Solution for All Climates
 Intensive and extensive green roofs are effective solutions for mitigating urban flooding due to their ability to absorb and manage rainwater in urban environments. Both extensive and intensive green roofs act as sponges, soaking up rainwater. This reduces the volume of water that would otherwise flow directly into stormwater drains and overload urban drainage systems. Green roofs release absorbed rainwater gradually through evapotranspiration, where plants release water vapor. Moreover, intensive green roofs, with their deeper soil layers, can support a diverse range of plant species. This biodiversity enhances the ecosystem, promoting natural balance and resilience against extreme weather events, including heavy rainfall.
+![algemeen-stip_extensief_en](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/ca83e86e-5bf0-4db5-8ec9-1a56c0ded2bf)
+![stip-algemeen_intensive_en](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/db88c017-cb4b-44bd-994f-afee712a59f1)
+
 
 # User research 
 
