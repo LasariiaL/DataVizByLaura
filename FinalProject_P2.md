@@ -1,7 +1,8 @@
 | [home page](https://lasariial.github.io/DataVizByLaura/) | [project part1](FinalProject_P1.md) |
 
 # Wireframes / storyboards
-![image](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/3ef5a1d8-a4e2-4317-993b-998549976d9e)
+![image](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/6b17330d-51da-4c3e-950c-8eac62aabede)
+
 
 ### Urban flooding is a growing concern worldwide due to climate change.
 
