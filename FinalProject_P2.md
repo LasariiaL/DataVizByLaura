@@ -32,6 +32,9 @@ Certainly, cities like New York and Chicago, known for their rapid urban growth 
 According to the Risk Factor website data, there are 83,841 properties in Chicago that have greater than a 26% chance of being severely affected by flooding over the next 30 years. This represents 42% of all properties in Chicago.
 ![Screenshot 2023-10-04 000855](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/fe6d3b2e-d72d-4693-8ee7-4534c5785df7)
 There are 156,304 properties in New York that have greater than a 26% chance of being severely affected by flooding over the next 30 years. This represents 30% of all properties in New York.
+![image](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/1c44fb10-b3cc-4fa3-90a5-e58241b65e9b)
+![image](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/a3f7b6a7-db36-404d-9446-87ac869fabbc)
+*I am planning to add more charts showing existing green roofs in Chicago and New York and outcomes of using it for flood mitigation.*
 
 # User research 
 
