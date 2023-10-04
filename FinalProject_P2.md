@@ -36,6 +36,9 @@ There are 156,304 properties in New York that have greater than a 26% chance of 
 ![image](https://github.com/LasariiaL/DataVizByLaura/assets/143854825/a3f7b6a7-db36-404d-9446-87ac869fabbc)
 - *I am planning to add more charts showing existing green roofs in Chicago and New York and outcomes of using it for flood mitigation.*
 
+### Future Potential
+All the best aspects of using green roofs for urban flood prevention and resilience. Recommendations on retrofitting existing buildings.
+
 # User research 
 
 ## Target audience
