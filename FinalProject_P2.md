@@ -53,9 +53,9 @@ The target audience for this project includes flood-prone communities and thier 
 
 ## Interview findings
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (65-year-old man affected by flood) | Interview 2 (30-year-old architecture student) | Interview 3 (28-year-old PhD student) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+|How clearly did you understand the concepts of urban flood resilience and the role of green roofs after reviewing the content?|The man expressed that the use of images helped him visualize the positive changes green roofs could bring to flood-prone areas, making the topic more engaging and relatable.|She appreciated the detailed explanations about different types of green roofs and their adaptability to various climates.|             |
 |                         |                                |             |             |
 |                         |                                |             |             |
 
