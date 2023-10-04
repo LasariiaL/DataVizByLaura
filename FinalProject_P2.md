@@ -60,17 +60,9 @@ The target audience for this project includes flood-prone communities and thier 
 |Can you suggest specific improvements to the data visualizations to make them more informative and easy to comprehend?|He suggested including more personal stories from individuals affected by floods.|She suggested incorporating more comparative data between different green roof projects, allowing readers to analyze their effectiveness in various contexts.|The PhD student recommended adding more quantitative information to charts, maps and texts.|
 
 # Identified changes for Part III
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-Text here!
+- Incorporating personal stories: to enhance relatability, personal narratives of individuals affected by floods will be integrated into the data visualizations.
+- Quantitative details in visualizations: the charts, maps, and graphs will be supplemented with additional quantitative information, providing a more detailed analysis of the data presented.
+- Incorporating visual comparisons: visual comparison tools, like sliders or interactive infographics, will be used to showcase the before-and-after transformations of areas implementing green roofs.
 
 # Moodboards / personas
 Text here!
