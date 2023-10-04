@@ -10,7 +10,7 @@ The need for resilient and sustainable cities is greater than ever in the face o
 Image source: https://www.freepik.com/search?format=search&page=6&query=city+flood&selection=1
 
 ### Understanding the root causes helps in effective mitigation strategies
-
+Urban flooding occurs predominantly in city centers and neighborhoods lacking sufficient green infrastructure, proper drainage systems, and permeable surfaces capable of absorbing water.
 
 # User research 
 
