@@ -24,10 +24,10 @@ For my third data visualization, I chose a Treemap to represent countries' debt-
 - **Step four**: conducted a survey
 - **Step five**: built my redesign of the visualization
 
-## Final Project [Draft of charts](/TestingCharts.md)
+## Final Project
 
 ### Part I: [Project proposal](/FinalProject_P1.md)
 
 ### Part II: [Project wireframes and User research](/FinalProject_P2.md)
 
-### Part III:
+### Part III: [Draft of charts](/TestingCharts.md)
