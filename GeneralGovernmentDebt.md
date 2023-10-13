@@ -1,4 +1,4 @@
-| [home page](https://github.com/LasariiaL/DataVizByLaura) |
+| [home page](https://github.com/LasariiaL/DataVizByLaura) | [project part1](FinalProject_P1.md) | [project part2](FinalProject_P2.md) |
 
 # General Government Debt
 ## Total % of GDP for 2019
