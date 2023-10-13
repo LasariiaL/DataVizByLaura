@@ -1,7 +1,7 @@
 | [home page](https://lasariial.github.io/DataVizByLaura/) | [visualizing government debt](GeneralGovernmentDebt.md) | [critique by design](CritiqueDesignRedesign.md) | [project part1](FinalProject_P1.md) | [project part2](FinalProject_P2.md) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+> Include a link to your final data story on Shorthand here. 
 
 Text here!
 
