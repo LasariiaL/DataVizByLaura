@@ -1,4 +1,4 @@
-| [home page](https://github.com/LasariiaL/DataVizByLaura) | [project part1](FinalProject_P1.md) | [project part2](FinalProject_P2.md) |
+| [home page](https://lasariial.github.io/DataVizByLaura/) | [project part1](FinalProject_P1.md) | [project part2](FinalProject_P2.md) |
 
 # Addressing Disparities in Creative Industries: Race and Gender Representation
 ## Data visualization for revision and redesign
