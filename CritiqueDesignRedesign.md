@@ -34,7 +34,7 @@ In response to this feedback, I made several enhancements to the chosen stacked 
 <div class="flourish-embed flourish-chart" data-src="visualisation/15079229"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 The redesigned data visualization presents a horizontal bar chart with ethnicity displayed on the y-axis and a 100-point scale on the x-axis. The chart is divided into four distinct sections, each represented by a different color: art (purple), fashion (turquoise), film (blue), and music (green). Within each section, proportions are labeled to indicate the distribution of individuals from different ethnic backgrounds.
-One unique feature of this visualization is the controller located in the left upper corner, allowing users to switch between genders by clicking on it. This interactive element adds a layer of flexibility to explore how the distribution of ethnicities varies across different genders within the domains of art, fashion, film, and music.
+One unique feature of this visualization is the controller located in the left upper corner, which allows users to switch between genders by clicking on it. This interactive element adds a layer of flexibility to explore how the distribution of ethnicities varies across different genders within the domains of art, fashion, film, and music.
 
 
 
