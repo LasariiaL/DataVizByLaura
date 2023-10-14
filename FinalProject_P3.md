@@ -1,8 +1,7 @@
 | [home page](https://lasariial.github.io/DataVizByLaura/) | [visualizing government debt](GeneralGovernmentDebt.md) | [critique by design](CritiqueDesignRedesign.md) | [project part1](FinalProject_P1.md) | [project part2](FinalProject_P2.md) |
 
 # The final data story
-> Include a link to your final data story on Shorthand here. 
-
+https://carnegiemellon.shorthandstories.com/green-roof/index.html
 Text here!
 
 # Changes made since Part II
