@@ -1,7 +1,7 @@
 # DataVizByLaura
 My public Portfolio of Data Visualization. Enjoy!
 
-+ The link to my published web site: https://lasariial.github.io/DataVizByLaura/
++ The link to my published website: https://lasariial.github.io/DataVizByLaura/
 + The link to this repository: https://github.com/LasariiaL/DataVizByLaura
 
 # About me
