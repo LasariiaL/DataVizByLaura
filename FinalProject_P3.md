@@ -2,29 +2,16 @@
 
 # The final data story
 https://carnegiemellon.shorthandstories.com/green-roof/index.html
-Text here!
+Since completing Part II, significant changes were made to enhance the data story. I diligently worked on compiling essential data, creating charts, and mapping flood-prone areas in the US alongside green roof locations in major cities like Chicago, NYC, and San Francisco. All images, graphics, and textual content underwent thorough editing. Comprehensive citations were added to validate the resources used. Notably, I expanded the project to include a Cost-Benefit analysis and a Call for Action section. Three valuable resources were incorporated, aiding both professionals and flood victims.
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+Since completing Part II, significant changes were made to enhance the data story. I diligently worked on compiling essential data, creating charts, and mapping flood-prone areas in the US alongside green roof locations in major cities like Chicago, NYC, and San Francisco. All images, graphics, and textual content underwent thorough editing. Comprehensive citations were added to validate the resources used. Notably, I expanded the project to include a Cost-Benefit analysis and a Call for Action section. Three valuable resources were incorporated, aiding both professionals and flood victims.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
+Speaking of my audience, I identified distinct preferences and requirements through interviews conducted during Part II. Professionals, including architects, urban planners, and policy makers, expressed a need for in-depth resources related to regulations and implementation aspects. Victims of previous floods, on the other hand, sought guidance on preventive measures for future incidents. To address these needs, I showcased real-life examples from cities with successful green roof practices, elucidated the cost factors involved in implementing green roofs in 2023, and compiled essential resources for study and construction purposes.
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
-
-## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
+In terms of design decisions, I carefully curated a blue-green palette to harmonize with the project's theme of flood mitigation through green roofs. Visual elements were crucial, and I utilized a mix of charts, pictures, and illustrations. Tools like Tableau Desktop, Tableau Public, and Flourish Studio were employed for creating dynamic charts, while Canva facilitated the design of compelling illustrations such as the Urban Flood cause and Green Roof benefits. Additionally, I integrated animations and gifs strategically to bring the narrative to life, ensuring a seamless flow from one section to another. 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+Reflecting on the entire process, I found it to be immensely enjoyable. Learning a new platform, Shorthand, was particularly exciting as it enabled me to present my data story in an engaging manner. Challenges did arise, notably with issues in Tableau's HTML code, necessitating additional cleaning time. While I had initially planned to explore platforms like RAWGraphs and Figma, the current project did not require their implementation. The most daunting aspect proved to be sourcing and cleaning appropriate data, highlighting the critical importance of this step in the data storytelling process.
