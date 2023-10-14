@@ -4,7 +4,7 @@
 - The link to my published Shorthand website: https://carnegiemellon.shorthandstories.com/green-roof/index.html
 - The final data story centers on devising effective solutions to tackle urban flooding by implementing innovative stormwater management strategies, specifically focusing on the application of green roofs. The motivation driving this project is a blend of professional aspirations and personal interests. By narrowing the scope to urban flooding, the project hones in on the challenges faced in densely populated areas, where flooding can have severe consequences. By concentrating on the green roof strategy, the narrative delves deep into a specific, ecologically friendly solution, aiming to provide a comprehensive and specialized approach to mitigating the impact of floods in urban environments.
 
-# Changes made since Part II
+## Changes made since Part II
 Since completing Part II, significant changes were made to enhance the data story. I worked on compiling essential data, creating charts, and mapping flood-prone areas in the U.S. alongside green roof locations in major cities like Chicago, NYC, and San Francisco. All images, graphics, and textual content underwent thorough editing. Comprehensive citations were added to validate the resources used. I also expanded the project to include cost-benefit information and a call for action section. Three valuable resources were incorporated to call for action, helping both professionals and flood victims.
 
 ## The audience
@@ -13,5 +13,5 @@ Speaking of my audience, I identified distinct preferences and requirements thro
 ## Final design decisions
 In terms of design decisions, I carefully curated a blue-green palette to harmonize with the project's theme of flood mitigation through green roofs. Visual elements were crucial, and I utilized a mix of charts, pictures, and illustrations. Tools like Tableau Desktop, Tableau Public, and Flourish Studio were employed for creating dynamic charts, while Canva facilitated the design of additional illustrations such as the Urban Flood cause and Green Roof benefits. Additionally, I integrated animations/gifs to bring the narrative to life, ensuring a seamless flow from one section to another. 
 
-# Final thoughts
+## Final thoughts
 Reflecting on the entire process, I found it to be extremely enjoyable. Learning a new platform, Shorthand, was particularly exciting as it enabled me to present my data story in an engaging manner. Challenges did arise, notably with issues in Tableau's HTML code, requiring additional cleaning time. While I also planned to explore platforms like RAWGraphs and Figma, the current project did not require their implementation. The most daunting aspect proved to be finding and cleaning appropriate data.
